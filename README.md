@@ -27,9 +27,12 @@ In this presentation, based on this dataset various questions will be answered f
 ### What Software Do I use?
 What Software Do I Use?
 To complete the project, the following software requirements are applied:
-    - 1. Google Colaboratory, Python3, Numpy, and Pandas installed using Anaconda
-    - 2. A text editor e.g., Sublime or Atom
-    - 3. A terminal application (Git Bash)
+
+    1. Google Colaboratory, Python3, Numpy, and Pandas installed using Anaconda
+    
+    2. A text editor e.g., Sublime or Atom
+    
+    3. A terminal application (Git Bash)
 
 
 Generally, at the end of the project, I make use of Version Control. I used my local Git repository and my GitHub repository. Create a repository, work on files, stage files, and commit them to GitHub. I also demonstrated how to hide files using .gitignore files.
